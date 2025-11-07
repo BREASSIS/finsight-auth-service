@@ -1,0 +1,10 @@
+# CODEOWNERS
+
+# Donos do código da API
+/src/ @finsight/team-platform
+
+# Donos de scripts e deploys
+/deploy/ @finsight/team-platform
+
+# Donos da documentação
+/docs/ @finsight/team-platform
